@@ -1,6 +1,6 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 佩觽
-#+DATE: 2017-03-23 10:53:55.465273
+#+DATE: 2017-03-23 11:02:58.696820
 #+PROPERTY: ID KR1j0027
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: WITNESS WYG    
@@ -433,7 +433,7 @@
 <pb:KR1j0027_WYG_002-13b>¶
 　　材□(上徂來翻材質下勑紂翻械也)¶
 ¶
-　　从&KR5277;(上泉雍翻順也下紆賞翻兩也)¶
+　　从&KR5342;(上泉雍翻順也下紆賞翻兩也)¶
 ¶
 　　苽□(上古乎翻苽蔣下側絞翻草名)¶
 ¶
