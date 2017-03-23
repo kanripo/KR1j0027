@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 佩觽
-#+DATE: 2017-03-23 10:53:37.808806
+#+DATE: 2017-03-23 10:53:37.859765
 #+PROPERTY: ID KR1j0027
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 0
 <pb:KR1j0027_WYG_000-1a>¶
 　　御製題宋版郭忠恕佩觿¶
@@ -62,7 +62,7 @@
 作角里與角亢字無異亦不用顔師古恐人¶
 誤讀故加一拂之説證之漢四老神位神祚¶
 几石刻甪里實作角里與此書合則知忠恕¶
-所論較他家精&KR0192;多矣乾隆四十六年九月¶
+所論較他家精確多矣乾隆四十六年九月¶
 㳟校上¶
 ¶
 <pb:KR1j0027_WYG_000-4a>¶
